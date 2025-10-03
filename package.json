@@ -1,0 +1,26 @@
+{
+  "name": "parcial-ii-corte-be-mateo-ramirez-katia-alcocer",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xXpI7QGh) # 📝 Enunciado del examen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSAW-2025-II/parcial-ii-corte-be-mateo-ramirez-katia-alcocer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSAW-2025-II/parcial-ii-corte-be-mateo-ramirez-katia-alcocer/issues"
+  },
+  "homepage": "https://github.com/DSAW-2025-II/parcial-ii-corte-be-mateo-ramirez-katia-alcocer#readme",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
